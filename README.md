@@ -18,3 +18,5 @@ I used SK_learn algorithms for defining training and test sets as well as perfor
 My Bayesian Regression data was run for all 13 properties of the CM feature vector generated from feature.py file. My results compare my results to the Faber et al. paper where my inspiration came from to run this program. The error of my results does not exceed 3% which is very good, and most likely means I ran my program correctly. The CM-BR.txt file included in this repository is available for analysis, as well as a picture ResultsBayesRegression for easy understanding of waht is being calculated in the .txt file.
 
 Overall, my Master's degree research involves DFT so this was a fun side project to run and see how close regression techniques could come to accurately determine DFT calculations done using traditional DFT methods.
+
+Thanks to Yu Chieh Chi for the collaboration.
